@@ -1,0 +1,22 @@
+img {
+	width: 98%;
+	height: 98%;
+	border: 2px solid black;
+}
+
+button {
+	width: 35%;
+	height: 500px;
+	margin: 0px 10px;
+}
+.headvotes {
+	float: right;
+	width: 130px;
+	height: 40px;
+	margin: 20px 20px;
+	padding: 10px 10px;
+	background-color: skyblue;
+	text-decoration: none;
+	border-radius: 5px;
+	border: 1px solid blue;
+}
